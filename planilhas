@@ -83,12 +83,12 @@
         "dados"
       ],
       "metadata": {
+        "id": "tkDvbTdB_VXd",
+        "outputId": "c8f84a4b-1a5b-41b8-b7cb-2fe0dc769a5a",
         "colab": {
           "base_uri": "https://localhost:8080/",
           "height": 794
-        },
-        "id": "tkDvbTdB_VXd",
-        "outputId": "c8f84a4b-1a5b-41b8-b7cb-2fe0dc769a5a"
+        }
       },
       "execution_count": null,
       "outputs": [
